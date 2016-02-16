@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        },
+        "com.phonegap.plugins.PushPlugin": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ukiuni.slitec"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.ukiuni.slite"
+        }
+    }
+}
